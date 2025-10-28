@@ -1,6 +1,6 @@
 # SmartHome AI Control System
 
-![image](resource/Kotlin%20Smart%20Home%20AI%20System%20Architecture.png.png)
+![image](resource/KotlinSmartHomeAISystemArchitecture.png)
 
 This project is a Kotlin-based simulation of a Smart Home AI control system. It demonstrates core concepts of object-oriented programming and smart device management.
 
